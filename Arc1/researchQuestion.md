@@ -8,9 +8,6 @@ Legacy systems are extremely common in the industry and they result in many cons
 
 #### Preliminary
 
-    Q3: Is scrum, as the generally most used software development process in the industry, a suitable process choice when modernizing a legacy system?
-        - How effective are project that use scrum when modernizing a legacy system?
-
     Q5: What are the processes proposed, and under which circumstances are they usable?
         - Survey of what legacy refactoring is going on?
         - Under what circumstances are they going on?
@@ -36,6 +33,15 @@ Legacy systems are extremely common in the industry and they result in many cons
 
     Q4: What documented strategies exist for legacy system replacement?
 
+    Q3: Is scrum, as the generally most used software development process in the industry, a suitable process choice when modernizing a legacy system?
+        - How effective are project that use scrum when modernizing a legacy system?
 
-### Research method
+
+### Next steps
+
+1. Literature research
+2.1. What is state of the art? 
+2.2. Write introduction: What is the context and motivation?
+3. 
+4. 
 
