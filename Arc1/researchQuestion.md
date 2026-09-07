@@ -10,6 +10,7 @@ Legacy systems are extremely common in the industry and they result in many cons
 
     Q5: What are the processes proposed, and under which circumstances are they usable?
         - Survey of what legacy refactoring is going on?
+            1. Do you currently have 
         - Under what circumstances are they going on?
             - Ongoing development?
             - Just replacing backend? Known requirements and so on. Waterfall?
@@ -17,6 +18,15 @@ Legacy systems are extremely common in the industry and they result in many cons
             - Does the theory apply on real life legacy system refactoring project.
         - Literature research -> Get some background 
                               -> Write introduction
+
+
+**Game plan**
+
+- Motivate research question:
+    - Find articles on:
+        - What consequences does legacy systems bring?
+        - Are legacy system refactoring difficult?
+        - 
 
 #### Potential
 
